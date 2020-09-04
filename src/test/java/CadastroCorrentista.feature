@@ -21,8 +21,58 @@ Exemplos:
 |"POST"|
 |"POST"|
 
-|zipCode|street|number|complement|birthDate|cpf|accountType|name|socialName|cnpj|
-|id|codigo|descricao|
+|zipCode|
+|"64210220"|
+|"64210422"|
+
+|street|
+|"A20"|
+|"B21"|
+
+|number|
+|"555"|
+|"655"|
+
+|complement|
+|"apto 15"|
+|"apto 16"|
+
+|birthDate|
+|"1999-05-28"|
+|"1996-03-22"|
+
+|cpf|
+|"30124006051"|
+|""           |
+
+|accountType|
+|"PF"|
+|"PJ"|
+
+|name                 |
+|"Leonardo Padovani"  |
+|"Padovani Tecnologia"|
+
+|socialName       |
+|""        |
+|"Tecnologia LTDA"|
+
+|cnpj|
+|""|
+|"71754564000168"|
+
+|id|
+|"1"|
+|"2"|
+
+|codigo|
+|"201"|
+|"201"|
+
+|descricao|
+|"Created"|
+|"Created"|
+
 
 
 
